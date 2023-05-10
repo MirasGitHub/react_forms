@@ -1,0 +1,11 @@
+.whiteContainer {
+	overflow: hidden;
+}
+
+.whiteContainer h3 {
+	color: #5bc0de;
+}
+
+.blueContainer h3 {
+	color: white;
+}
